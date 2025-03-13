@@ -1,2 +1,2 @@
-# vue-dependency-analyzer
+# VueDependencyAnalyzer
 Doctor thesis part 1
