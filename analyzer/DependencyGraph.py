@@ -2,8 +2,8 @@ from typing import Dict, List
 
 class DependencyGraph:
     def __init__(self, data: dict):
-        self.components: Dict[str, List[str]] = data["components"]
-        self.modules: Dict[str, List[str]] = data["modules"]
+        self.components: Dict[str, List[str]] = data.get("components", {})
+        self.modules: Dict[str, List[str]] = data.get("modules", {})
 
     def find_unused_modules(self) -> List[str]:
         """find unused modules"""
