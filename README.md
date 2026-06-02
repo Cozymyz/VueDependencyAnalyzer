@@ -76,9 +76,8 @@ This project is related to ongoing research on:
 ## Author
 
 Yizhi Mei
+Ph.D. Candidate, Oita University
+Frontend Software Engineering Research
 
-Ph.D. Candidate
-Oita University, Japan
-
-Research Area:
-Frontend Software Architecture and Software Engineering
+GitHub: https://github.com/Cozymyz
+E-mail:yizhimei0302@gmail.com / v25f1001@oita-u.ac.jp
